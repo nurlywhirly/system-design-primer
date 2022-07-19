@@ -1836,3 +1836,6 @@ My contact info can be found on my [GitHub page](https://github.com/donnemartin)
     Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
     http://creativecommons.org/licenses/by/4.0/
+    
+ # Extras for Me
+ * https://www.youtube.com/watch?v=oBt53YbR9Kk (5 hour dynamic programming video)
